@@ -2,5 +2,5 @@
 def badge_maker(name)
    do |make|
     "Hello, my name is #{name}."
-  end
+  e
 end
