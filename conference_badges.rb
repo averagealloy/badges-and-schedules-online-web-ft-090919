@@ -1,4 +1,4 @@
 # Write your code here.
 def badge_maker(ogarray)
-  new_
+  new_arra
   array.each do |fillout|
