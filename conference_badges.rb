@@ -7,4 +7,4 @@ new_array
 end
 
 
-def bage
+def bage_maker 
