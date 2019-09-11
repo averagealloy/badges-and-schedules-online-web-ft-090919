@@ -5,3 +5,6 @@ def badge_maker(og_array)
 new_array
  end
 end
+
+
+def 
