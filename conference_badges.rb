@@ -16,5 +16,5 @@ array.each_with_index.map  do |name, index|
 end
 
 def printer(array)
-  batch_badge_creator.each |w
+  batch_badge_creator.each |ea
 end
