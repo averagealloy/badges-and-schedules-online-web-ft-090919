@@ -17,5 +17,5 @@ end
 
 def printer(array)
   batch_badge_creator.each do |each_badge|
-  puts 
+  puts each_ba
 end
