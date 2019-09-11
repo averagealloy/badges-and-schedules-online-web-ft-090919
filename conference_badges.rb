@@ -15,4 +15,4 @@ array.each_with_index.map  do |name, index|
   end
 end
 
-def printer()
+def printer(array)
