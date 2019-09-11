@@ -2,4 +2,5 @@
 def badge_maker(og_array)
   new_array = []
   og_array.each do |fillout|
-new_array 
+new_array
+end
