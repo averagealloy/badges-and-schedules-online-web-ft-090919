@@ -7,5 +7,5 @@ new_array
 end
 
 name =  gets.chomp
-def bage_maker(name)
-  bage_maker.each 
+def badge_maker(name)
+  bage_maker.each
