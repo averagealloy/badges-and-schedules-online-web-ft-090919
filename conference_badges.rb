@@ -8,4 +8,4 @@ end
 
 name =  gets.chomp
 def bage_maker(name)
-  bage 
+  bage_make
