@@ -7,4 +7,4 @@ new_array
 end
 
 
-def bag
+def bage
