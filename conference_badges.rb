@@ -8,4 +8,4 @@ end
 
 name =  gets.chomp
 def badge_maker(name)
-  bage_maker.each
+  bage_maker.each do 
