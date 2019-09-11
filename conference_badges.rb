@@ -7,7 +7,3 @@ def batch_badge_creator(array)
 
 
 end
-
-
-
-https://zoom.us/j
