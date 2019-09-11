@@ -14,3 +14,5 @@ array.each_with_index.map  do |name, index|
    "Hello, #{name}! You'll be assigned to room #{index +1}!"
   end
 end
+
+def 
