@@ -16,5 +16,5 @@ array.each_with_index.map  do |name, index|
 end
 
 def printer(array)
-  array.e
+  array
 end
