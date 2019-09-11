@@ -6,5 +6,5 @@ new_array
  end
 end
 
-name =  gets.c
+name =  gets.chomp 
 def bage_maker(name)
