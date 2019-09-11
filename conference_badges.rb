@@ -19,5 +19,5 @@ def printer(array)
   batch_badge_creator.each do |each_badge|
   puts each_badge
   end
-  assign
+  assign_r
 end
