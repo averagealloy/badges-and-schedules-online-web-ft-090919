@@ -16,5 +16,5 @@ array.each_with_index.map  do |name, index|
 end
 
 def printer(array)
-  batch_badge_creator.EAC
+  batch_badge_creator.
 end
